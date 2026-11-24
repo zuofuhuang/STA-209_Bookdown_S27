@@ -1,0 +1,18 @@
+---
+title: 'STA-209 Applied Statistics'
+author: 'Spring 2027'
+site: bookdown::bookdown_site
+output: 
+  bookdown::gitbook:
+    split_by: chapter
+    config:
+      toc:
+        collapse: chapter
+        scroll_highlight: yes
+documentclass: book  
+github-repo: zuofuhuang/NetworkProject
+---
+  
+# Preface {-}
+ 
+Hello! 

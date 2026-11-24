@@ -1,0 +1,7 @@
+book_filename: "STA-209_Bookdown_S27"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+rmd_files: ['index.Rmd']
+output_dir: "docs"
